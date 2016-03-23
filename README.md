@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # [Start Bootstrap](http://startbootstrap.com/) - [One Page Wonder](http://startbootstrap.com/template-overviews/one-page-wonder/)
 
 [One Page Wonder](http://startbootstrap.com/template-overviews/one-page-wonder/) is a basic one page template for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/).
@@ -24,3 +25,11 @@ Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework 
 ## Copyright and License
 
 Copyright 2013-2015 Iron Summit Media Strategies, LLC. Code released under the [Apache 2.0](https://github.com/IronSummitMedia/startbootstrap-one-page-wonder/blob/gh-pages/LICENSE) license.
+=======
+# Trisha Earl A. Eupina
+    ITC7 - The Internet and Web Application
+    ID: 2129612
+    SCHED: TTH 
+    
+# CV Profile Page
+>>>>>>> 42ae76fa6c3ea6a9ec3921f85dcc58d11eff2b77
